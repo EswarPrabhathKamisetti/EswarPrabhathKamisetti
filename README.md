@@ -1,14 +1,7 @@
 <h1 align="center">Hi there, I'm Eswar Kamisetti </h1>
 
 ---
-
-### Health Data Analyst | 3 Yrs of Experience in Healthcare Research & Data Analysis | Python, R, SQL | Predictive Modeling, Dashboards, Hypothesis Testing | Driving Data-Driven Clinical & Educational Insights 
-📍 *Indianapolis, IN*  
-*Bridging clinical insights and data science to improve healthcare outcomes*
-
----
-
-### Summary
+### About
 
 I’m a former dentist now driving evidence-based improvements in healthcare as a **Health Informatics graduate student at Indiana University**. From the operatory to the research lab, I’ve seen both the human and data side of healthcare—and I thrive at their intersection.
 
