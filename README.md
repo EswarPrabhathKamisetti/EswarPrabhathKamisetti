@@ -16,26 +16,30 @@ My mission is to use data to improve patient outcomes, streamline care delivery,
 
 ---
 
-### Experience Highlights
+### Professional Experience
 
-#### **Research Assistant** — *Indiana University School of Dentistry* (2024 – Present)
-- Improved student satisfaction by 20% via thematic analysis of 100+ surveys and redesign of DDS modules  
-- Built real-time dashboards increasing module completion by 15%  
-- Supported IRB-compliant protocol design; presented findings at academic conferences  
-
-#### **Research Data Analyst** — *HANDS in Autism* (2024)
-- Transcribed and analyzed 20+ behavioral interviews for qualitative research  
-- Managed REDCap data, built training dashboards, and embedded live visual summaries for stakeholders  
-
-#### **General Dentist** — *Care Dental Hospitals, India* (2023)
-- Delivered full-scope dental care and analyzed 3,000+ records to improve protocols  
-- Led efficiency revamp improving clinic operations by 40%  
-- Developed dashboards for staff scheduling and patient satisfaction surveys  
-
-####  **General Surgery Intern** — *Govt. General Hospital, India* (2021–2022)
-- Assisted in trauma/surgical procedures, executed emergency care protocols  
-- Built RFID-tracking system in MySQL, reducing supply delays by 25%  
-- Designed dashboards for interdepartmental mortality reviews  
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Research%20Assistant-Indiana%20University%20School%20of%20Dentistry-blue?style=for-the-badge" alt="Research Assistant"/><br>
+      <sub>Indianapolis, IN — 2024–Present</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Research%20Assistant-HANDS%20in%20Autism-purple?style=for-the-badge" alt="Research Data Analyst"/><br>
+      <sub>Indianapolis, IN — 2024</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/General%20Dentist-Care%20Dental%20Hospitals-teal?style=for-the-badge" alt="General Dentist"/><br>
+      <sub>India — 2023</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/General%20Surgery%20Intern-Govt.%20General%20Hospital-red?style=for-the-badge" alt="General Surgery Intern"/><br>
+      <sub>India — 2021–2022</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
